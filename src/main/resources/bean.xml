@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--    <bean id="accountDao" class="cn.itcast.dao.impl.AccountDaoImpl">-->
+    <!--    </bean>-->
+    <!--    <bean id="accountService" class="cn.itcast.dao.impl.AccountDaoImpl">-->
+    <!--    </bean>-->
+    <bean id="instanceFactory" class="cn.itcast.factory.instanceFactory"></bean>
+    <bean id="accountDao" factory-bean="instanceFactory" factory-method="getAccountDao"></bean>
+    <!--    <bean id="accountService" class="cn.itcast.factory.StaticFactory" factory-method="getAccountService"></bean>-->
+
+    <bean id="accountService" class="cn.itcast.service.impl.AccountServiceImpl">
+        <!--        <constructor-arg type="java.lang.String" value="asjfdklsa"></constructor-arg>-->
+        <!--        <constructor-arg type="java.util.Date" ref="now"></constructor-arg>-->
+        <!--        <constructor-arg type="java.lang.Integer" value="23"></constructor-arg>-->
+<!--        <constructor-arg name="age" value="12"></constructor-arg>-->
+<!--        <constructor-arg name="birthday" value="now"></constructor-arg>-->
+<!--        <constructor-arg name="name" value="saf"></constructor-arg>-->
+        <property name=""
+        
+    </bean>
+     
+    <bean id="now" class="java.util.Date"></bean>
+</beans>
