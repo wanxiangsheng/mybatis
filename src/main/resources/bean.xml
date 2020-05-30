@@ -8,20 +8,71 @@
     <!--    </bean>-->
     <!--    <bean id="accountService" class="cn.itcast.dao.impl.AccountDaoImpl">-->
     <!--    </bean>-->
-    <bean id="instanceFactory" class="cn.itcast.factory.instanceFactory"></bean>
-    <bean id="accountDao" factory-bean="instanceFactory" factory-method="getAccountDao"></bean>
+<!--    <bean id="instanceFactory" class="cn.itcast.factory.instanceFactory"></bean>-->
+<!--    <bean id="accountDao" factory-bean="instanceFactory" factory-method="getAccountDao"></bean>-->
     <!--    <bean id="accountService" class="cn.itcast.factory.StaticFactory" factory-method="getAccountService"></bean>-->
 
-    <bean id="accountService" class="cn.itcast.service.impl.AccountServiceImpl">
+
+
+<!--    <bean id="accountService" class="cn.itcast.service.impl.AccountServiceImpl">-->
         <!--        <constructor-arg type="java.lang.String" value="asjfdklsa"></constructor-arg>-->
         <!--        <constructor-arg type="java.util.Date" ref="now"></constructor-arg>-->
         <!--        <constructor-arg type="java.lang.Integer" value="23"></constructor-arg>-->
-<!--        <constructor-arg name="age" value="12"></constructor-arg>-->
-<!--        <constructor-arg name="birthday" value="now"></constructor-arg>-->
-<!--        <constructor-arg name="name" value="saf"></constructor-arg>-->
-        <property name=""
-        
-    </bean>
-     
-    <bean id="now" class="java.util.Date"></bean>
+        <!--        <constructor-arg name="age" value="12"></constructor-arg>-->
+        <!--        <constructor-arg name="birthday" value="now"></constructor-arg>-->
+        <!--        <constructor-arg name="name" value="saf"></constructor-arg>-->
+<!--        <property name="name" value="sjkfsaldf"></property>-->
+<!--        <property name="age" value="12"></property>-->
+<!--        <property name="birthday" ref="now"></property>-->
+<!--    </bean>-->
+
+<!--    <bean id="now" class="java.util.Date"></bean>-->
+
+<!--    <bean id="accountService" class="cn.itcast.service.impl.AccountServiceImpl2">-->
+<!--        <property name="str">-->
+<!--            <array>-->
+<!--                <value>123</value>-->
+<!--                <value>1a23</value>-->
+<!--                <value>12adf3</value>-->
+<!--                <value>12ad3</value>-->
+<!--            </array>-->
+<!--        </property>-->
+<!--        <property name="list">-->
+<!--            <list>-->
+<!--                <value>adfas</value>-->
+<!--                <value>adfas</value>-->
+<!--                <value>adfas</value>-->
+<!--                <value>adfas</value>-->
+<!--            </list>-->
+<!--        </property>-->
+<!--        <property name="set">-->
+<!--            <set>-->
+<!--                <value>afa</value>-->
+<!--                <value>afa</value>-->
+<!--                <value>afa</value>-->
+<!--                <value>afa</value>-->
+<!--            </set>-->
+<!--        </property>-->
+<!--        <property name="map">-->
+<!--            <map>-->
+<!--                <entry key="ajskdf" value="234"></entry>-->
+<!--                <entry key="ajskdf" value="234"></entry>-->
+<!--                <entry key="ajskdf" value="234"></entry>-->
+<!--            </map>-->
+<!--        </property>-->
+<!--        <property name="pro">-->
+<!--            <props>-->
+<!--                <prop key="safjk">242afd</prop>-->
+<!--                <prop key="safjk">242afd</prop>-->
+<!--                <prop key="safjk">242afd</prop>-->
+<!--                <prop key="safjk">242afd</prop>-->
+<!--            </props>-->
+<!--        </property>-->
+<!--    </bean>-->
+
+        <bean id="connectUtils" class="cn.itcast.utils.ConnectUtils">
+
+        </bean>
+
+
 </beans>

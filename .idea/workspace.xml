@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2761b52-2ee3-40ff-af72-2c83d4e3c104" name="Default Changelist" comment="" />
+    <list default="true" id="c2761b52-2ee3-40ff-af72-2c83d4e3c104" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/axis.log" beforeDir="false" afterPath="$PROJECT_DIR$/axis.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/dao/impl/AccountDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/ui/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbcConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/dao/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/dao/RoleDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/dao/RoleDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/dao/impl/AccountDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/dao/impl/AccountDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/domain/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/domain/AccountUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/domain/AccountUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/domain/Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/domain/Query.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/domain/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/domain/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/factory/StaticFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/factory/StaticFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/factory/instanceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/factory/instanceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/ui/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/ui/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbcConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/itcast/test/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cn/itcast/test/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/itcast/test/MybatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cn/itcast/test/MybatisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/itcast/test/RoleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cn/itcast/test/RoleTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +51,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven\repository\maven_repository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="localRepository" value="E:\pinyougou\repository\repository_pinyougou" />
+        <option name="mavenHome" value="E:/apache-maven-3.3.9-bin" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9-bin\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -32,10 +70,13 @@
     </option>
   </component>
   <component name="MavenRunner">
-    <option name="jreName" value="9" />
+    <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1cU2ZqBHPFeeQBQGyPMvkATM5a8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,34 +87,65 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/spring-framework-5.0.2.RELEASE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/cn/itcast/cglib" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.165" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myproject\mybatis\src\main\resources" />
       <recent name="D:\ideawork\mybatis\libs" />
       <recent name="D:\ideawork\mybatis\src\main\resources\cn\itcast\dao" />
       <recent name="D:\ideawork\mybatis\src\main\resources" />
       <recent name="D:\ideawork\mybatis\src\main\resources\cn\itcast" />
-      <recent name="D:\ideawork\mybatis\src\main\resources\cn" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="cn.itcast" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.test" />
+      <recent name="cn.itcast.dao.impl" />
       <recent name="domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\mybatis\src\main\java\cn\itcast\cglib" />
       <recent name="D:\ideawork\mybatis\src\main\java\cn\itcast\dao" />
       <recent name="D:\ideawork\mybatis\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="JUnit.AccountServiceTest.test1">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.proxy.Client" />
+      <module name="mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.cglib.Client" />
+      <module name="mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.itcast.ui.Client" />
       <module name="mybatis" />
@@ -87,7 +159,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis" />
       <extension name="coverage">
         <pattern>
@@ -96,14 +168,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="cn.itcast.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.AccountTest" />
-      <option name="METHOD_NAME" value="findAll" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MybatisTest.fillAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis" />
       <extension name="coverage">
         <pattern>
@@ -112,40 +184,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="cn.itcast.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.MybatisTest" />
-      <option name="METHOD_NAME" value="fillAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MybatisTest.findID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.MybatisTest" />
-      <option name="METHOD_NAME" value="findID" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MybatisTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.MybatisTest" />
-      <option name="METHOD_NAME" value="update" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AccountServiceTest.test1" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="JUnit.AccountServiceTest.test" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="JUnit.MybatisTest.findID" />
-        <item itemvalue="JUnit.MybatisTest.update" />
-        <item itemvalue="JUnit.AccountTest.findAll" />
-        <item itemvalue="JUnit.MybatisTest.fillAll" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +215,8 @@
       <workItem from="1590619254007" duration="19573000" />
       <workItem from="1590721383518" duration="10377000" />
       <workItem from="1590751979532" duration="1002000" />
+      <workItem from="1590756488394" duration="7318000" />
+      <workItem from="1590787910964" duration="34290000" />
     </task>
     <servers />
   </component>
@@ -194,41 +236,63 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590735561033" />
-    <state x="575" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1590739695592">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="719" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1590826153156">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="575" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590739695592" />
+    <state x="719" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590826153156" />
+    <state x="861" y="446" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590756772568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="446" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590756772568" />
+    <state x="650" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590794210021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590794210021" />
     <state x="554" y="272" width="428" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590575811634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="554" y="272" width="428" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1590575811634" />
+    <state x="739" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590794215922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1590794215922" />
     <state x="411" y="128" key="DetectedRootsChooserDialog" timestamp="1590733617862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="411" y="128" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1590733617862" />
-    <state x="416" y="149" key="FileChooserDialogImpl" timestamp="1590733614087">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="579" y="206" key="EnvironmentVariablesDialog" timestamp="1590757529717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="206" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590757529717" />
+    <state x="520" y="188" key="FileChooserDialogImpl" timestamp="1590758129861">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="416" y="149" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590733614087" />
-    <state width="930" height="208" key="GridCell.Tab.0.bottom" timestamp="1590741773013">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="520" y="188" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590758129861" />
+    <state width="1186" height="328" key="GridCell.Tab.0.bottom" timestamp="1590846926865">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="930" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590741773013" />
+    <state width="1186" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590846926865" />
     <state width="768" height="231" key="GridCell.Tab.0.bottom/0.0.768.392/1920.0.1536.824@0.0.768.392" timestamp="1590594825641" />
-    <state width="930" height="208" key="GridCell.Tab.0.center" timestamp="1590741773013">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1186" height="328" key="GridCell.Tab.0.center" timestamp="1590846926865">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="930" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590741773013" />
+    <state width="1186" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590846926865" />
     <state width="768" height="231" key="GridCell.Tab.0.center/0.0.768.392/1920.0.1536.824@0.0.768.392" timestamp="1590594825640" />
-    <state width="930" height="208" key="GridCell.Tab.0.left" timestamp="1590741773013">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1186" height="328" key="GridCell.Tab.0.left" timestamp="1590846926865">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="930" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590741773013" />
+    <state width="1186" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590846926865" />
     <state width="768" height="231" key="GridCell.Tab.0.left/0.0.768.392/1920.0.1536.824@0.0.768.392" timestamp="1590594825640" />
-    <state width="930" height="208" key="GridCell.Tab.0.right" timestamp="1590741773013">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1186" height="328" key="GridCell.Tab.0.right" timestamp="1590846926865">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="930" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590741773013" />
+    <state width="1186" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590846926865" />
     <state width="768" height="231" key="GridCell.Tab.0.right/0.0.768.392/1920.0.1536.824@0.0.768.392" timestamp="1590594825641" />
     <state width="1537" height="396" key="GridCell.Tab.1.bottom" timestamp="1590638458263">
       <screen x="0" y="0" width="1536" height="824" />
@@ -250,10 +314,11 @@
     </state>
     <state width="1537" height="396" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590638458263" />
     <state width="768" height="231" key="GridCell.Tab.1.right/0.0.768.392/1920.0.1536.824@0.0.768.392" timestamp="1590594825641" />
-    <state x="137" y="0" key="SettingsEditor" timestamp="1590736046281">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="257" y="94" width="998" height="708" key="SettingsEditor" timestamp="1590805256535">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="137" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590736046281" />
+    <state x="257" y="94" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590805256535" />
     <state x="360" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590733583881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,10 +335,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="26" y="93" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590573225403" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590735072457">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1590840678545">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590735072457" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590840678545" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -288,11 +354,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/cn/itcast/ui/Client.java</url>
-          <line>9</line>
+          <line>14</line>
           <properties class="cn.itcast.ui.Client" method="main">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
